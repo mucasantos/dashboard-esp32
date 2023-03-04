@@ -1,0 +1,136 @@
+const readSensor = {
+  "sensorData": [
+    {
+      "_id": "625d59ace39d910a9a9f15ee",
+      "local": "Sensor 01",
+      "temp": 23.5,
+      "humidity": 15,
+      "diaHora": "20/04/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-04-18T12:29:32.328Z",
+      "updatedAt": "2022-04-18T12:29:32.328Z",
+      "__v": 0
+    },
+    {
+      "_id": "629384918246bb10435aefe3",
+      "local": "Sensor 02",
+      "temp": 25.5,
+      "humidity": 45,
+      "diaHora": "18/04/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-05-29T14:34:57.984Z",
+      "updatedAt": "2022-05-29T14:34:57.984Z",
+      "__v": 0
+    },
+    {
+      "_id": "629821f6ef6a90081dde50f2",
+      "local": "Sensor 03",
+      "temp": 21.7,
+      "humidity": 75,
+      "diaHora": "01/06/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-06-02T02:35:34.272Z",
+      "updatedAt": "2022-06-02T02:35:34.272Z",
+      "__v": 0
+    },
+    {
+      "_id": "6298d6cd3cf2b90023eaf5aa",
+      "local": "Sensor 04",
+      "temp": 21.5,
+      "humidity": 55,
+      "diaHora": "02/06/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-06-02T15:27:09.168Z",
+      "updatedAt": "2022-06-02T15:27:09.168Z",
+      "__v": 0
+    },
+    {
+      "_id": "625d59ace39d910a9a9f15ee",
+      "local": "Sensor 01",
+      "temp": 23.5,
+      "humidity": 15,
+      "diaHora": "20/04/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-04-18T12:29:32.328Z",
+      "updatedAt": "2022-04-18T12:29:32.328Z",
+      "__v": 0
+    },
+    {
+      "_id": "629384918246bb10435aefe3",
+      "local": "Sensor 02",
+      "temp": 25.5,
+      "humidity": 45,
+      "diaHora": "18/04/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-05-29T14:34:57.984Z",
+      "updatedAt": "2022-05-29T14:34:57.984Z",
+      "__v": 0
+    },
+    {
+      "_id": "629821f6ef6a90081dde50f2",
+      "local": "Sensor 03",
+      "temp": 21.7,
+      "humidity": 75,
+      "diaHora": "01/06/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-06-02T02:35:34.272Z",
+      "updatedAt": "2022-06-02T02:35:34.272Z",
+      "__v": 0
+    },
+    {
+      "_id": "6298d6cd3cf2b90023eaf5aa",
+      "local": "Sensor 04",
+      "temp": 21.5,
+      "humidity": 55,
+      "diaHora": "02/06/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-06-02T15:27:09.168Z",
+      "updatedAt": "2022-06-02T15:27:09.168Z",
+      "__v": 0
+    },
+    {
+      "_id": "625d59ace39d910a9a9f15ee",
+      "local": "Sensor 01",
+      "temp": 23.5,
+      "humidity": 15,
+      "diaHora": "20/04/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-04-18T12:29:32.328Z",
+      "updatedAt": "2022-04-18T12:29:32.328Z",
+      "__v": 0
+    },
+    {
+      "_id": "629384918246bb10435aefe3",
+      "local": "Sensor 02",
+      "temp": 25.5,
+      "humidity": 45,
+      "diaHora": "18/04/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-05-29T14:34:57.984Z",
+      "updatedAt": "2022-05-29T14:34:57.984Z",
+      "__v": 0
+    },
+    {
+      "_id": "629821f6ef6a90081dde50f2",
+      "local": "Sensor 03",
+      "temp": 21.7,
+      "humidity": 75,
+      "diaHora": "01/06/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-06-02T02:35:34.272Z",
+      "updatedAt": "2022-06-02T02:35:34.272Z",
+      "__v": 0
+    },
+    {
+      "_id": "6298d6cd3cf2b90023eaf5aa",
+      "local": "Sensor 04",
+      "temp": 21.5,
+      "humidity": 55,
+      "diaHora": "02/06/2022",
+      "creator": "6259b1a77ad6085ed216ff32",
+      "createdAt": "2022-06-02T15:27:09.168Z",
+      "updatedAt": "2022-06-02T15:27:09.168Z",
+      "__v": 0
+    },
+  ]
+}
