@@ -18,7 +18,7 @@ function testIntervalo() {
     .then(readSensor => createScreen(readSensor))
 }
 
-setInterval(testIntervalo, 120000);
+setInterval(testIntervalo, 1200000);
 
 function createScreen(readSensor) {
   //Para cada elemento no Array (lista), expõe os dados
