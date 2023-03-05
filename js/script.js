@@ -4,7 +4,7 @@ const url = "https://esp32-zjts.onrender.com/read";
 
 const charts = document.querySelector(".chart");
 //Pega a tabela do HTML a partir do ID
-const myTable = document.getElementById("table");
+const myTable = document.getElementById("mytable");
 //Lista que será alimentada com os dados vindos do servidor.
 
 testIntervalo()
@@ -109,11 +109,12 @@ function createScreen(readSensor) {
     },
   });
 
-}
-
-$(document).ready(function () {
+  $(document).ready(function () {
     $(".data-table").each(function (_, table) {
       $(table).DataTable();
     });
   });
+}
+
+
 
